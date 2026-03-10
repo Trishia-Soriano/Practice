@@ -1,0 +1,18 @@
+
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+    }
+    h1 {
+        background-color: #eadcdc;
+    }
+    p {
+        background-color: #d3b5b5;
+    }
+    .highlight {
+        background-color: #f0a1a8;
+        color: white;
+        padding: 5px;
+    }           
+
+    
