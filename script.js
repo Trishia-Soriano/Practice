@@ -3,8 +3,7 @@ const btn = document.querySelector('button');
 
 //we create a function that runs every time the button is clicked
 btn.addEventListener('click', function() {
-    alert('Button was clicked!');
-});
+   
 
     //the 'logic': we chek the current color of the body 
 if (document.body.style.backgroundColor === 'lightblue') {
@@ -15,4 +14,5 @@ if (document.body.style.backgroundColor === 'lightblue') {
 
     //if the color is not lightblue, we change it to lightblue
     document.body.style.backgroundColor = 'lightblue';
-};
+}
+});
